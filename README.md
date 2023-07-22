@@ -1,10 +1,14 @@
 # E-Commerce Website 
 
 # Site Preview
-![E-Commerce Website](../overview.png)
+![overview](https://github.com/chetankumar9903/E-Commerce_Website/assets/126199153/3766f8e7-346e-40e5-ae10-8b581d8ba857)
 
+![overview2](https://github.com/chetankumar9903/E-Commerce_Website/assets/126199153/d1f6599b-ce8e-470c-bfa4-2122eca770c7)
 
 This is a responsive e-commerce website project that uses modern CSS, including Flexbox and CSS Grid, to create stunning designs and effects. The website is fully responsive, ensuring an optimal user experience on tablets and mobile devices.
+
+# Complete site view: 
+https://chetankumar9903.github.io/E-Commerce_Website/
 
 ## Table of Contents
 - [Introduction](#introduction)
