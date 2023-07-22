@@ -1,6 +1,8 @@
 # E-Commerce Website 
 
 # Site Preview
+![E-Commerce Website](../overview.png)
+
 
 This is a responsive e-commerce website project that uses modern CSS, including Flexbox and CSS Grid, to create stunning designs and effects. The website is fully responsive, ensuring an optimal user experience on tablets and mobile devices.
 
@@ -60,4 +62,10 @@ We welcome contributions to improve and enhance the project. If you find any iss
 ## Additional Information
 
 You can enhance the functionality and attractiveness of the website by exploring and using more JavaScript methods and libraries. Consider implementing features like dynamic product filtering, interactive product galleries, smooth scrolling animations, and responsive navigation menus. Adding such enhancements can make the website more engaging and user-friendly, providing an enjoyable shopping experience for visitors.
+
+
+
+
+
+
 
